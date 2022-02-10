@@ -1,8 +1,4 @@
 section{
-    position: absolute;
-    top: 5rem;
-    left: 50%;
-    transform: translate(-50%, 50%);
     color: white;
     text-align: center;
 }
